@@ -39,5 +39,10 @@ dependencies {
     implementation 'org.web3j:core:4.1.1'
 
     implementation "com.github.walleth.kethereum:erc681:0.73.3"
+    implementation "com.github.walleth.kethereum:rpc:0.73.3"
+    implementation "com.github.walleth.kethereum:networks:0.73.3"
+    implementation "com.github.walleth.kethereum:method_signatures:0.73.3"
+    implementation "com.github.walleth.kethereum:contract_abi_types:0.73.3"
+
     testImplementation 'junit:junit:4.12'
 }
